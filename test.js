@@ -1,3 +1,3 @@
-function main_world () {
-
+function main () {
+ // hello world
 }
