@@ -1,3 +1,4 @@
 function main () {
- // hello world x1
+ // Let's improve this
+ console.log("Hello world")
 }
